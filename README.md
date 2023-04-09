@@ -1,2 +1,3 @@
 # ObjectDetection
-object detection with YOLO(v3, v5, v8,...)
+- dataset: kaggle(safety helmet)
+- complete to convert xml annotation files into YOLO customized set
